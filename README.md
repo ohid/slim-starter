@@ -4,9 +4,12 @@ Super Shortener is a URL shortening app built on top of Laravel framework.
 Super shortener shortens urls with ajax response and givs all statistics info about url in google chart graph.
 
 #### What's included?
-```sh
-Here in slim-starter you have slim 3, slim twig view, and eloqunt setup for database migration
-```
+
+Here in slim-starter you have : 
+ - Slim 3
+ - Slim twig view and
+ - Eloqunt for database migration
+
 
 
 ### Installation
