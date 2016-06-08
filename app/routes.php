@@ -1,0 +1,7 @@
+<?php 
+
+	//////////////////////////////////////
+	// All Our Application Defines here //
+	//////////////////////////////////////
+
+$app->get('/', '\App\Controllers\HomeController:index');
